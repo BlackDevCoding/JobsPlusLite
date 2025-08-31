@@ -1,0 +1,10 @@
+storage:
+  save-interval-seconds: 120
+jobs:
+  max-joinable: 2
+rewards:
+  enable-money: true
+  enable-xp: true
+ui:
+  enable-actionbar: true
+  enable-sound: false

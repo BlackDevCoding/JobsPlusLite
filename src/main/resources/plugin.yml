@@ -1,0 +1,19 @@
+name: JobsPlusLite
+main: dev.blackdev.jobsplus.lite.JobsPlusLite
+version: 1.1.0
+
+api-version: '1.21'
+authors: ['BlackDev']
+load: POSTWORLD
+softdepend: [Vault]
+
+commands:
+  jobs:
+    description: Jobs command
+    usage: /jobs
+    aliases: [job]
+permissions:
+  jobsplus.use:
+    default: true
+  jobsplus.admin:
+    default: op
