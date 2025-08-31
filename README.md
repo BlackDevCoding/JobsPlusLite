@@ -1,6 +1,6 @@
 # 🌱 JobsPlus
 
-[![Modrinth Downloads](https://img.shields.io/modrinth/dt/jobsplus?logo=modrinth&color=00AF5C)](https://modrinth.com/plugin/jobsplus)
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/jobspluslite?logo=modrinth&color=00AF5C)](https://modrinth.com/plugin/jobspluslite)
 
 A powerful and lightweight **jobs system plugin** for **Minecraft Paper 1.21+**.  
 Reward players with **money and job XP** for performing tasks like chopping trees, farming, mining, and more!
